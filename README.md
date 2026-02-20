@@ -21,7 +21,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/express.svg"
+     height="40"
+     style="filter: invert(1);" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
@@ -30,18 +32,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Developer Summary
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devo-hacker&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devo-hacker&layout=compact&theme=dracula" height="150"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devo-hacker&theme=dracula" />
+</p>
 
 ---
 
@@ -53,8 +54,9 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devo-hacker/devo-hacker/output/snake.svg" alt="Snake animation"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devo-hacker&theme=dracula" />
+</p>
 </div>
