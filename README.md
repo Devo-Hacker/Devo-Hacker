@@ -21,6 +21,7 @@
 ## 🧠 My Focus Areas
 - Webstack Web-Development(core backend)
 - Devops
+- Three js for 3D frontend animation
 
 
 ## 📊 GitHub Stats & Trophies
