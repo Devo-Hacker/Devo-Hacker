@@ -30,7 +30,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Devo-Hacker&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Devo-Hacker's GitHub Stats" />
   </a>
      <br>
-  <img src="https://streak-stats.demolab.com/?user=Devo-Hacker&theme=radical&hide_border=true&cache_seconds=86400" alt="Devo-Hacker's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Devo-Hacker&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Niladree Bihari Nayak's GitHub Trophies" />
