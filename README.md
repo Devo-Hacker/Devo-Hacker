@@ -39,6 +39,16 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Devo-Hacker&theme=radical&radius=10" alt="Devo-Hacker's Activity Graph" />
 </p>
 
+## 🎯 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Niladree_Bihari_Nayak_07?theme=dark" />
+
+</div>
+
+---
+
 
 ## 🛠️ Languages & Tools
 
