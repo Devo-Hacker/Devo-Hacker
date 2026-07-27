@@ -6,28 +6,43 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Devo-Hacker">
-    <img src="https://komarev.com/ghpvc/?username=Devo-Hacker&label=Profile%20views&color=00FFFF&style=flat-square" alt="Devo-Hacker's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Devo-Hacker&label=Profile+Views&color=8b5cf6&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/Devo-Hacker?style=for-the-badge&color=ec4899" />
+    <img src="https://img.shields.io/github/stars/Devo-Hacker?style=for-the-badge&color=facc15" />
+
   </a>
 </p>
 
 <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🎓 B.Tech CSE Student
-- 🌱 Currently learning **Modern Frameworks & Backend Architecture**
-- 💬 Ask me about **Backend Development & DSA**
-
+```yaml
+Name     : Niladree Bihari Nayak
+Location : Jalandhar, India
+College  : Lovely Professional University, Jalandhar
+Focus    : Backend Development & DSA
+Learning : Modern Frameworks & Backend Architecture
+  - Typescript & JavaScript 
+  - Git & GitHub
+  - C++
+```
 
 ## 🧠 My Focus Areas
+```yaml
 - Webstack Web-Development(core backend)
 - Devops
 - Three js for 3D frontend animation
-
+```
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Devo-Hacker">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Devo-Hacker&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Devo-Hacker's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Devo-Hacker&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+    <br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Devo-Hacker&theme=monokai" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devo-Hacker&theme=monokai" /> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Devo-Hacker&theme=monokai&utcOffset=5.5" />
   </a>
      <br>
 
@@ -56,6 +71,7 @@
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="27" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" height="27">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="27">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="27" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="27">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="27">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="27">
@@ -74,7 +90,7 @@
 <!--<img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" alt="pnpm" height="27"> -->
 <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="27">
 <!-- <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28"> -->
-<!-- <img src="https://img.shields.io/badge/Vanilla_JS-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="27" alt="Vanilla JS"> -->
+<img src="https://img.shields.io/badge/Vanilla_JS-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="27" alt="Vanilla JS">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" height="28">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="27">
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="27">
@@ -93,7 +109,7 @@
 <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="28"> 
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva" height="28">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" height="28">
-<!-- <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" height="40"> -->
+<img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" height="40">
 <!-- <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="40">
 <img src="https://img.shields.io/badge/streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" height="40">
 <img src="https://img.shields.io/badge/ngrok-1F1F1F.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Ngrok" height="40"> -->
@@ -104,13 +120,13 @@
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" height="27">
 <img src="https://img.shields.io/badge/Langflow-4B0082.svg?style=for-the-badge&logoColor=white" height="27">
 <!-- <img src="https://img.shields.io/badge/Voiceflow-4D4DFF.svg?style=for-the-badge&logoColor=white" height="27"> -->
-<!-- <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" height="27">
-<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" height="27"alt="jupyter"> -->
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" height="27">
+<!-- <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" height="27"alt="jupyter"> -->
 <!-- <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="27"alt="pycharm"> -->
 <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white" height="27"alt="gc">
 <!-- <img src="https://img.shields.io/badge/kaggle-000000.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" height="28"> -->
 <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" height="27">
-<!-- <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" height="27"> -->
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" height="27">
 <!-- <img src="https://img.shields.io/badge/zed-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white" height="27" alt="Zed"> -->
 <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" height="27"alt="replit">
 <!-- <img src="https://img.shields.io/badge/Sublime_Text-%23FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=white" height="27" alt="Sublime Text"> -->
@@ -140,11 +156,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Devo-Hacker">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Devo-Hacker&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
-</p>
+</p> -->
 
 
 <!-- <p align="center"><a href="https://www.linkedin.com/in/niladree-bihari-nayak-274b24310/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:niladreebiharinayak@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p> -->
