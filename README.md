@@ -49,7 +49,13 @@ Learning : Modern Frameworks & Backend Architecture
 
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Devo-Hacker&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Niladree Bihari Nayak's GitHub Trophies" />
+  <a href="https://github.com/Kiran1689">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Devo-Hacker&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Devo-Hacker&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=Devo-Hacker&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Devo-Hacker&theme=radical&radius=10" alt="Devo-Hacker's Activity Graph" />
